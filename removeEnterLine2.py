@@ -1,6 +1,6 @@
 import re
 
-print("\n\nSTART REMOVE ENTERLINE2 ..\n\n")
+print("\n\nSTART REMOVE ENTERLINE2 v..\n\n")
 
 in_file ="C:\Files\Data_removeEnterLine.txt"
 out_file ="C:\Files\Data_removeEnterLine_Result1.txt"

@@ -17,4 +17,4 @@ with open("C:\Files\Data_removeEnterLine_Result.txt", "r", encoding="utf-8") as 
     lines = out_file2.read()
     print(lines)
 
-print("\n\n FINISHED REMOVE ENTERLINE.")
+print("\n\n FINISHED REMOVE ENTERLINE.") 
