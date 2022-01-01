@@ -1,4 +1,4 @@
-# Mingyu-Kim
+# Min-Gyu Kim
 
 2021-12-04
 
