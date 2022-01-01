@@ -1,4 +1,4 @@
-# Mingyu-Kim
+# Min-Gyu Kim
 
 removeEnterLine
 : 엑셀 한 셀 내에 엔터라인이 들어가는 경우 각 엔터라인들을 모두 제거하고 한줄로 바꿔주는 기능.
