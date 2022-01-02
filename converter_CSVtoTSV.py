@@ -11,6 +11,6 @@ with open(input_file_name, "r", encoding="utf-8-sig") as input_file, \
         line = line.replace('","', "\t")
         print(line, file=output_file)
 
-        # # split, join 사용
+        # # using plit, join
         # cols = line.split('","')
         # print("\t".join(cols), file=output_file)
