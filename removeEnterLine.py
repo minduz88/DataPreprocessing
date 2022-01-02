@@ -11,7 +11,7 @@ with open(in_file, "r", encoding="utf-8") as in_file:
 
         out_file.write(lines)
 
-#print result
+#print result.
 with open("C:\Files\Data_removeEnterLine_Result.txt", "r", encoding="utf-8") as out_file2:
     
     lines = out_file2.read()
