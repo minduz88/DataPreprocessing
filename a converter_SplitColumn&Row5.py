@@ -2,7 +2,7 @@
 
 from collections import defaultdict
 
-data = defaultdic(list) # set default value "list" in dictionary 
+data = defaultdict(list) # set default value "list" in dictionary 
 input_file_name = " "
 
 with open(input_file_name, "r", enconding="utf-8-sig") as input_file:
