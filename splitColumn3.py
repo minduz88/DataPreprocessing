@@ -1,4 +1,4 @@
-# Read a File and Split Column - read all of range that in file (Use the function of splitlines()).
+# Read a File and Split Column - Read all of a range that in file (Use the function of splitlines()).
 
 input_file_name = " "
 
