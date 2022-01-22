@@ -6,8 +6,8 @@ sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding='utf-8')
 
 from konlpy.tag import Okt 
  
-okt = Okt() 
+Okt = Okt() 
 
-print(okt.morphs(u'단독입찰보다 복수입창의 경우'))
+print(Okt.morphs('test'))
 
 
