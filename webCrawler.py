@@ -9,8 +9,8 @@ import bs4
 import requests
 # import result as result
 
-endpoint = "http://apis.data.go.kr/1250000/trend/getTrend?"
-serviceKey = "%2FUb40e8yYNc06uu4TGHtKMt1MMCYRt59qpmfNUNPYH0YIlI5%2BSmTk15aNys%2FaQkiPvOqil%2FZTR4lNpwpSxWIrQ%3D%3D"
+endpoint = " "
+serviceKey = " "
 
 cl = "ARGUMENT_DAIL"
 bgng_ymd ="20210101"
