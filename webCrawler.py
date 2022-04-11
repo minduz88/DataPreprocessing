@@ -29,5 +29,3 @@ jason_obj = result.json()
 
 for item in jason_obj["items"]:
     print(item["cn"])
-
-#test
